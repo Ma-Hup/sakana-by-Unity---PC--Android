@@ -1,4 +1,4 @@
-# Sakana by Unity,PC-Android版
+# Sakana by Unity。PC、Android可运行
 
 #### 介绍
 石蒜人Sakana~再现，by unity。源码资源包和pc、安卓软件下载
