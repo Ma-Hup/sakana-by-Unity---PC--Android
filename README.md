@@ -3,8 +3,8 @@
 #### 介绍
 石蒜人Sakana~再现，by unity。源码资源包和pc、安卓软件下载
 
-#### 软件架构
-软件架构说明
+#### 效果视频
+https://www.bilibili.com/video/BV1J24y1o7pz?share_source=copy_web&vd_source=f488a561762582f91be8093625a9cc0e
 
 
 #### 安装教程
